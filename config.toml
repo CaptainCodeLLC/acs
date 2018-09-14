@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Atlas Credit Solutions"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "Atlas Credit Solutions"
 
 		[params.navigation.links]
 			about     = "About"
@@ -41,15 +41,15 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Find out more"
+		slogan     = "Atlas Credit Solutions"
+		subtitle   = "Making Financial Freedom Attainable"
+		buttonText = ""
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
+		headline    = "What we do"
+		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them.  We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
 		buttonText  = "Get started!"
 
 
@@ -59,49 +59,67 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            title = "Dispute Process"
+            description = "Inaccurate, negative information can severely lower a person’s credit scores. We initiate an investigation with all three credit bureaus to verify all derogatory information  impacting your scores. Investigations generally last 30-45 days for the dispute process. Once the results are in you are notified via email. The information disputed will come back with 1 of 4 viable options and we move forward with our next step from there."
 
         [[params.services.list]]
 			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			title = "Validation Process"
+			description = "Debt validation is a crucial step in our repair process. First we determine who is attempting to collect this debt.  Generally, original creditors assign your debt to a collection agency or in-house collection company. The FDCPA requires that a collection agency send you a written notice notifying you that they are collecting your debt. If they fail to provide adequate proof, they are in violation and therefore, we follow up with the bureaus to have it removed from your report."
 
 		[[params.services.list]]
             icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            title = "Debt Settlement"
+            description = "If you’ve ever wondered if you can settle a debt for less than the full balance, the answer is yes. Our unique debt settlement process is very precise. Student loans, medical bills, credit cards, cell phone bills, etc. are all examples of accounts that we settle on a daily basis. With your consent, we touch base with the CA and try to get you the best deal possible. We disclose all fees, inform you of their recommended payment plan, and advise you how much money to save up before we make an offer."
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            title = "Re-establish Credit"
+            description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
 
 
     # Portfolio modals
 	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
+    client = "Client"
+    date = "Date"
+    category = "Category"
+    buttonText = "Close"
 
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		# Testimonials
+		# Service section
+		[params.testimonials]
+			headline = "At your service"
 
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+					[[params.testimonials.list]]
+							icon = "fa-diamond"
+							title = "Dispute Process"
+							description = "Inaccurate, negative information can severely lower a person’s credit scores. We initiate an investigation with all three credit bureaus to verify all derogatory information  impacting your scores. Investigations generally last 30-45 days for the dispute process. Once the results are in you are notified via email. The information disputed will come back with 1 of 4 viable options and we move forward with our next step from there."
+
+					[[params.testimonials.list]]
+				icon = "fa-paper-plane"
+				title = "Validation Process"
+				description = "Debt validation is a crucial step in our repair process. First we determine who is attempting to collect this debt.  Generally, original creditors assign your debt to a collection agency or in-house collection company. The FDCPA requires that a collection agency send you a written notice notifying you that they are collecting your debt. If they fail to provide adequate proof, they are in violation and therefore, we follow up with the bureaus to have it removed from your report."
+
+			[[params.testimonials.list]]
+							icon = "fa-newspaper-o"
+							title = "Debt Settlement"
+							description = "If you’ve ever wondered if you can settle a debt for less than the full balance, the answer is yes. Our unique debt settlement process is very precise. Student loans, medical bills, credit cards, cell phone bills, etc. are all examples of accounts that we settle on a daily basis. With your consent, we touch base with the CA and try to get you the best deal possible. We disclose all fees, inform you of their recommended payment plan, and advise you how much money to save up before we make an offer."
+
+					[[params.testimonials.list]]
+							icon = "fa-heart"
+							title = "Re-establish Credit"
+							description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
+
 
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		phone = "1-(800)-970-1512"
+		email = "info@atlascreditsolutions.com"
 
 	# Google Maps section
-	# [params.location]
-	# 	latitude  = "34.007850"
-	# 	longitude = "-118.499305"
-	# 	maps_api_key = ""
+	 [params.location]
+	 	latitude  = "25.7135932"
+	 	longitude = "-80.4336497"
+	 	maps_api_key = ""
