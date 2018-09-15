@@ -49,67 +49,78 @@ googleAnalytics = ""
 	# About section
 	[params.about]
 		headline    = "What we do"
-		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them.  We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
+		description = "Atlas Credit Solutions was established to assist individuals with restoring their credit and to offer a comprehensive analysis of the factors affecting a person’s credit score. ACS is a credit repair firm that consists of a group of experts whom specialize in restoring credit scores and guiding our clients with strategies that will continue to assist them in the future. We are dedicated to constantly improving our quality of work and optimizing our client’s experience. Through our systematic process and extensive years of experience in the credit industry we have helped thousands of families restore their credit. Our rates are competitive but keeping your costs down is a priority. We are capable of challenging just about anything that has a negative impact on your credit report. One of our many priorities is to ensure that you are updated constantly with any new results and that accurate records be kept on your progress. Any given situation is comprehensible. Whether you have a time restraint or have set your own limits, our team works diligently to get you the best results."
 		buttonText  = "Get started!"
 
 
 	# Service section
 	[params.services]
 		headline = "At your service"
+		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them.  We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
 
-        [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Dispute Process"
-            description = "Inaccurate, negative information can severely lower a person’s credit scores. We initiate an investigation with all three credit bureaus to verify all derogatory information  impacting your scores. Investigations generally last 30-45 days for the dispute process. Once the results are in you are notified via email. The information disputed will come back with 1 of 4 viable options and we move forward with our next step from there."
+    [[params.services.list]]
+      icon = "fa-diamond"
+      title = "Dispute Process"
+      description = "Inaccurate, negative information can severely lower a person’s credit scores. We initiate an investigation with all three credit bureaus to verify all derogatory information  impacting your scores. Investigations generally last 30-45 days for the dispute process. Once the results are in you are notified via email. The information disputed will come back with 1 of 4 viable options and we move forward with our next step from there."
 
-        [[params.services.list]]
+    [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Validation Process"
 			description = "Debt validation is a crucial step in our repair process. First we determine who is attempting to collect this debt.  Generally, original creditors assign your debt to a collection agency or in-house collection company. The FDCPA requires that a collection agency send you a written notice notifying you that they are collecting your debt. If they fail to provide adequate proof, they are in violation and therefore, we follow up with the bureaus to have it removed from your report."
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Debt Settlement"
-            description = "If you’ve ever wondered if you can settle a debt for less than the full balance, the answer is yes. Our unique debt settlement process is very precise. Student loans, medical bills, credit cards, cell phone bills, etc. are all examples of accounts that we settle on a daily basis. With your consent, we touch base with the CA and try to get you the best deal possible. We disclose all fees, inform you of their recommended payment plan, and advise you how much money to save up before we make an offer."
+      icon = "fa-newspaper-o"
+      title = "Debt Settlement"
+      description = "If you’ve ever wondered if you can settle a debt for less than the full balance, the answer is yes. Our unique debt settlement process is very precise. Student loans, medical bills, credit cards, cell phone bills, etc. are all examples of accounts that we settle on a daily basis. With your consent, we touch base with the CA and try to get you the best deal possible. We disclose all fees, inform you of their recommended payment plan, and advise you how much money to save up before we make an offer."
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Re-establish Credit"
-            description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
-
-
-    # Portfolio modals
-	[params.portfolio.modal]
-    client = "Client"
-    date = "Date"
-    category = "Category"
-    buttonText = "Close"
+    [[params.services.list]]
+      icon = "fa-heart"
+      title = "Re-establish Credit"
+      description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
 
 		# Testimonials
-		# Service section
 		[params.testimonials]
-			headline = "At your service"
+			headline = "Testimonials"
 
-					[[params.testimonials.list]]
-							icon = "fa-diamond"
-							title = "Dispute Process"
-							description = "Inaccurate, negative information can severely lower a person’s credit scores. We initiate an investigation with all three credit bureaus to verify all derogatory information  impacting your scores. Investigations generally last 30-45 days for the dispute process. Once the results are in you are notified via email. The information disputed will come back with 1 of 4 viable options and we move forward with our next step from there."
-
-					[[params.testimonials.list]]
-				icon = "fa-paper-plane"
-				title = "Validation Process"
-				description = "Debt validation is a crucial step in our repair process. First we determine who is attempting to collect this debt.  Generally, original creditors assign your debt to a collection agency or in-house collection company. The FDCPA requires that a collection agency send you a written notice notifying you that they are collecting your debt. If they fail to provide adequate proof, they are in violation and therefore, we follow up with the bureaus to have it removed from your report."
+	    [[params.testimonials.list]]
+	      icon = "fa-diamond"
+	      title = "Maria Hernandez - Miami, FL"
+	      description = "I Heard about Atlas Credit Solutions from a colleague at work. I called and asked about their free consultation and I booked an appointment to meet with them. The consultation was very thorough. They are super professional and always made sure that I was updated when needed. Overall great everything and their work speaks for itself."
 
 			[[params.testimonials.list]]
-							icon = "fa-newspaper-o"
-							title = "Debt Settlement"
-							description = "If you’ve ever wondered if you can settle a debt for less than the full balance, the answer is yes. Our unique debt settlement process is very precise. Student loans, medical bills, credit cards, cell phone bills, etc. are all examples of accounts that we settle on a daily basis. With your consent, we touch base with the CA and try to get you the best deal possible. We disclose all fees, inform you of their recommended payment plan, and advise you how much money to save up before we make an offer."
+				icon = "fa-paper-plane"
+				title = "John Garcia - Miami, FL"
+				description = "My friend referred me to Atlas Credit Solutions after getting denied for a home mortgage and I will forever be thankful. They saved me a lot of time and a huge headache. In just four months they got my credit back on track and got me approved for my loan. Thank you, ACS!"
 
-					[[params.testimonials.list]]
-							icon = "fa-heart"
-							title = "Re-establish Credit"
-							description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
+			[[params.testimonials.list]]
+	      icon = "fa-newspaper-o"
+	      title = "Jenny & Raul Gomez - Miami, FL"
+	      description = "Our mortgage broker referred us to ACS and they did really great work for us. They deleted over half of our negative accounts within the first two months! Wonderful service and they're very straight forward. The whole repair process took about 6 months and it was definitely worth the wait. Thank you guys!"
 
+	    [[params.testimonials.list]]
+	      icon = "fa-heart"
+	      title = "Marie Morah - Brooklyn, NY"
+	      description = "I found Atlas Credit Solutions on the Internet and the following day I called and asked about their free consultation. The person with whom I spoke told me just about everything I wanted to know. Without them I wouldn’t be in the position that I’m in today. They know what they are doing!"
+
+			[[params.testimonials.list]]
+				icon = "fa-heart"
+				title = "Johanna Martinez - Manhattan, NY"
+				description = "Atlas Credit Solutions has fundamentally improved my credit score. There work was great and my scores increased drastically over time. They are always professional and they make sure your'e constantly updated about their progress."
+
+			[[params.testimonials.list]]
+				icon = "fa-heart"
+				title = "Scott Demers - Brooklyn, NY"
+				description = "Totally recommended! I've tried other credit repair companies and it's always been a waste of time. These people are game changers. Low cost great service and even better results."
+
+			[[params.testimonials.list]]
+				icon = "fa-heart"
+				title = "Dominic Martucci - Trenton, NJ"
+				description = "The team is great! Very clear and consistent with their work and they make sure your doing what needs to be done on your end. Highly recommended for anyone with bad credit. They did great work for me."
+
+			[[params.testimonials.list]]
+				icon = "fa-heart"
+				title = "James Smith - Brooklyn, NY"
+				description = "Phenomenal work. I still can't believe the progress they made in just a few months. Great staff."
 
 	# Contact section
 	[params.contact]
