@@ -187,7 +187,8 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../img/header.gif);
+    opacity: 100%;
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
