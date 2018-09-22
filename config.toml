@@ -56,7 +56,7 @@ googleAnalytics = ""
 
 	# Service section
 	[params.services]
-		headline = "At Your Service"
+		headline = "Our Service"
 		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them.  We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
 
     [[params.services.list]]
