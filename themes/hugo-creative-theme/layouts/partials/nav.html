@@ -26,6 +26,11 @@
                         <a class="page-scroll" href="#services">{{ .Site.Params.navigation.links.services }}</a>
                     </li>
                 {{ end }}
+                {{ if and .Site.Params.strategy .Site.Params.navigation.links.strategy }}
+                    <li>
+                        <a class="page-scroll" href="#strategy">{{ .Site.Params.navigation.links.strategy }}</a>
+                    </li>
+                {{ end }}
                 {{ if and .Site.Params.testimonials.list .Site.Params.navigation.links.testimonials }}
                     <li>
                         <a class="page-scroll" href="#testimonials">{{ .Site.Params.navigation.links.testimonials }}</a>

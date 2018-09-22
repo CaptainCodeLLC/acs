@@ -1,18 +1,18 @@
-{{ "<!-- ABOUT -->" | safeHTML }}
-<section class="bg-primary" id="about">
+{{ "<!-- Strategy -->" | safeHTML }}
+<section class="bg-primary" id="strategy">
     <div class="container">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-center">
-                {{ with .Site.Params.about.headline }}
+                {{ with .Site.Params.strategy.headline }}
                     <h2 class="section-heading">{{ . }}</h2>
                 {{ end }}
-                {{ if and .Site.Params.about.headline .Site.Params.about.description }}
+                {{ if and .Site.Params.strategy.headline .Site.Params.strategy.description }}
                     <hr class="light">
                 {{ end }}
-                {{ with .Site.Params.about.description }}
+                {{ with .Site.Params.strategy.description }}
                     <p class="text-faded">{{ . | markdownify }}</p>
                 {{ end }}
-                {{ with .Site.Params.about.buttonText }}
+                {{ with .Site.Params.strategy.buttonText }}
                     <a href="#" class="btn btn-default btn-xl">{{ . }}</a>
                 {{ end }}
             </div>

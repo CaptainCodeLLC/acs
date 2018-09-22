@@ -33,6 +33,7 @@ googleAnalytics = ""
 
 		[params.navigation.links]
 			about         = "About"
+			strategy 	  = "Strategy"
 			services      = "Services"
 			testimonials  = "Testimonials"
 			portfolio     = "Portfolio"
@@ -77,6 +78,13 @@ googleAnalytics = ""
       icon = "fa-heart"
       title = "Re-establish Credit"
       description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
+
+
+	# Strategy
+	[params.strategy]
+		headline = "Strategy"
+		description = "Atlas Credit Solutions was established to assist individuals with restoring their credit and to offer a comprehensive analysis of the factors affecting a person’s credit score. ACS is a credit repair firm that consists of a group of experts whom specialize in restoring credit scores and guiding our clients with strategies that will continue to assist them in the future. <br/><br/>We are dedicated to constantly improving our quality of work and optimizing our client’s experience. Through our systematic process and extensive years of experience in the credit industry we have helped thousands of families restore their credit. Our rates are competitive but keeping your costs down is a priority. <br/><br/> We are capable of challenging just about anything that has a negative impact on your credit report. One of our many priorities is to ensure that you are updated constantly with any new results and that accurate records be kept on your progress. Any given situation is comprehensible. Whether you have a time restraint or have set your own limits, our team works diligently to get you the best results."
+
 
 	# Testimonials
 	[params.testimonials]
