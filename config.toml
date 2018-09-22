@@ -49,7 +49,7 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "What we do"
+		headline    = "About"
 		description = "Atlas Credit Solutions was established to assist individuals with restoring their credit and to offer a comprehensive analysis of the factors affecting a person’s credit score. ACS is a credit repair firm that consists of a group of experts whom specialize in restoring credit scores and guiding our clients with strategies that will continue to assist them in the future. We are dedicated to constantly improving our quality of work and optimizing our client’s experience. Through our systematic process and extensive years of experience in the credit industry we have helped thousands of families restore their credit. Our rates are competitive but keeping your costs down is a priority. We are capable of challenging just about anything that has a negative impact on your credit report. One of our many priorities is to ensure that you are updated constantly with any new results and that accurate records be kept on your progress. Any given situation is comprehensible. Whether you have a time restraint or have set your own limits, our team works diligently to get you the best results."
 
 
@@ -125,7 +125,7 @@ googleAnalytics = ""
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		description = "Ready to start the journey to financial freedom? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
 		phone = "1-(800)-970-1512"
 		email = "info@atlascreditsolutions.com"
 
