@@ -50,14 +50,14 @@ googleAnalytics = ""
 
 	# About section
 	[params.about]
-		headline    = "About"
-		description = "Atlas Credit Solutions was established to assist individuals with restoring their credit and to offer a comprehensive analysis of the factors affecting a person’s credit score. ACS is a credit repair firm that consists of a group of experts whom specialize in restoring credit scores and guiding our clients with strategies that will continue to assist them in the future. We are dedicated to constantly improving our quality of work and optimizing our client’s experience. Through our systematic process and extensive years of experience in the credit industry we have helped thousands of families restore their credit. Our rates are competitive but keeping your costs down is a priority. We are capable of challenging just about anything that has a negative impact on your credit report. One of our many priorities is to ensure that you are updated constantly with any new results and that accurate records be kept on your progress. Any given situation is comprehensible. Whether you have a time restraint or have set your own limits, our team works diligently to get you the best results."
+		headline    = "About Atlas"
+		description = "Atlas Credit Solutions was established to assist individuals with restoring their credit and to offer a comprehensive analysis of the factors affecting a person’s credit score. ACS is a credit repair firm that consists of a group of experts whom specialize in restoring credit scores and guiding our clients with strategies that will continue to assist them in the future. <br/><br/> We are dedicated to constantly improving our quality of work and optimizing our client’s experience. Through our systematic process and extensive years of experience in the credit industry we have helped thousands of families restore their credit. Our rates are competitive but keeping your costs down is a priority. <br/><br/> We are capable of challenging just about anything that has a negative impact on your credit report. One of our many priorities is to ensure that you are updated constantly with any new results and that accurate records be kept on your progress. Any given situation is comprehensible. Whether you have a time restraint or have set your own limits, our team works diligently to get you the best results."
 
 
 	# Service section
 	[params.services]
-		headline = "Our Service"
-		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them.  We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
+		headline = "Our services"
+		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them. <br/><br/> We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
 
     [[params.services.list]]
       icon = "fa-university"
@@ -109,27 +109,6 @@ googleAnalytics = ""
       icon = "fa-quote-right"
       title = "Marie Morah"
       description = "I found Atlas Credit Solutions on the Internet and the following day I called and asked about their free consultation. The person with whom I spoke told me just about everything I wanted to know. Without them I wouldn’t be in the position that I’m in today. They know what they are doing!"
-
-		[[params.testimonials.list]]
-			icon = "fa-quote-right"
-			title = "Johanna Martinez"
-			description = "Atlas Credit Solutions has fundamentally improved my credit score. There work was great and my scores increased drastically over time. They are always professional and they make sure your'e constantly updated about their progress."
-
-		[[params.testimonials.list]]
-			icon = "fa-quote-right"
-			title = "Scott Demers"
-			description = "Totally recommended! I've tried other credit repair companies and it's always been a waste of time. These people are game changers. Low cost great service and even better results."
-
-		[[params.testimonials.list]]
-			icon = "fa-quote-right"
-			title = "Dominic Martucci"
-			description = "The team is great! Very clear and consistent with their work and they make sure your doing what needs to be done on your end. Highly recommended for anyone with bad credit. They did great work for me."
-
-		[[params.testimonials.list]]
-			icon = "fa-quote-right"
-			title = "James Smith"
-			description = "Phenomenal work. I still can't believe the progress they made in just a few months. Great staff."
-
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
