@@ -56,26 +56,26 @@ googleAnalytics = ""
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "Our services"
 		description = "Here at ACS we come to work everyday with a purpose.  Our primary mission here is to find a solution for any credit infraction that comes our way. The restore process is strictly regimented and is addressed systematically. We begin by offering a free consultation to gather an in-depth analysis of everything reporting to each of the three major credit bureaus. Our clients are then informed of their current status and what steps will be taken to further assist them. <br/><br/> We address all infractions during our repair process including charge offs, late payments, collection accounts, bankruptcies, tax liens, and more. Our team is aware that every credit report varies which is why a plan of action is tailored for each individual case. Understanding the adverse effects of bad credit is crucial in this industry but even more significant to our team.  That’s why we’re here to help."
 
     [[params.services.list]]
-      icon = "fa-diamond"
-      title = "Dispute Process"
+      icon = "fa-university"
+      title = "Dispute Proess"
       description = "Inaccurate, negative information can severely lower a person’s credit scores. We initiate an investigation with all three credit bureaus to verify all derogatory information  impacting your scores. Investigations generally last 30-45 days for the dispute process. Once the results are in you are notified via email. The information disputed will come back with 1 of 4 viable options and we move forward with our next step from there."
 
     [[params.services.list]]
-			icon = "fa-paper-plane"
+			icon = "fa-search"
 			title = "Validation Process"
 			description = "Debt validation is a crucial step in our repair process. First we determine who is attempting to collect this debt.  Generally, original creditors assign your debt to a collection agency or in-house collection company. The FDCPA requires that a collection agency send you a written notice notifying you that they are collecting your debt. If they fail to provide adequate proof, they are in violation and therefore, we follow up with the bureaus to have it removed from your report."
 
 		[[params.services.list]]
-      icon = "fa-newspaper-o"
+      icon = "fa-handshake-o"
       title = "Debt Settlement"
       description = "If you’ve ever wondered if you can settle a debt for less than the full balance, the answer is yes. Our unique debt settlement process is very precise. Student loans, medical bills, credit cards, cell phone bills, etc. are all examples of accounts that we settle on a daily basis. With your consent, we touch base with the CA and try to get you the best deal possible. We disclose all fees, inform you of their recommended payment plan, and advise you how much money to save up before we make an offer."
 
     [[params.services.list]]
-      icon = "fa-heart"
+      icon = "fa-flag-checkered"
       title = "Re-establish Credit"
       description = "Credit re-establishment is generally our last step of the repair process if you’ve proceeded with our services. As an effect of the previous restoration steps, you’re most likely eligible to begin re-establishing your credit. By this time, your scores have most likely increased drastically and your credit reports are as clean as can be. Now it’s time to get you the ideal credit cards, loans, or financial agreements with an optimal interest rate."
 
